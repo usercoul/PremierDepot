@@ -1,8 +1,0 @@
-#fichier .o
-*.o
-
-#ignore log
-*.log
-
-#ignore temp
-*.tmp
